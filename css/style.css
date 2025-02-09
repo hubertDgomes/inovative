@@ -47,9 +47,10 @@ a{
 }
 .rowH2{
     font-family: "Open Sans", serif;
-    font-style: 64px;
-    font-weight: 800;
+    font-style: 100px;
+    font-weight: 1000;
     padding-bottom: 32px;
+    margin-right: 200px;
 }
 .rowP{
     font-family: "Nunito", serif;
