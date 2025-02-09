@@ -127,5 +127,54 @@ a{
     font-size: 18px;
     font-family: "Nunito", serif;
     font-weight: 500;
+    padding-bottom: 30px;
+}
+.rowPad{
+    padding-bottom: 46px;
 }
 /* Shocase Part End */
+/* Trust Part Start */
+.trust{
+    padding: 50px 0;
+}
+.trustH3{
+    font-size: 44px;
+    font-family: "Poppins", serif;
+    font-weight: 600;
+}
+.forTop{
+    margin-top: 30px;
+}
+.rowPT{
+    padding-top: 50px;
+}
+/* Trust Part End */
+/* Trail Part start */
+.trail{
+    padding: 40px 0;
+}
+.triH2{
+    font-size: 48px;
+    font-family: "Poppins", serif;
+    font-weight: 600;
+    padding-bottom: 30px;
+}
+.triP{
+    font-style: 18px;
+    font-family: "Nunito", serif;
+    font-weight: 500;
+    padding-bottom: 30px;
+}
+.triImg{
+    padding-bottom: 80px;
+}
+.btn2{
+    padding: 10px 20px;
+    background: #8454F5;
+    border-radius: 10px;
+    font-size: 20px;
+}
+.aF{
+    font-size: 10px;
+}
+/* Trail Part End */
