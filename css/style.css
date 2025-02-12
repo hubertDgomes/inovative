@@ -31,7 +31,7 @@ a{
     width: 100%;
     top: 0;
     left: 0;
-    background-color: #fff !important;
+    /* background-color: #fff !important; */
   }
 /* Navbar End */
 
@@ -177,4 +177,76 @@ a{
 .aF{
     font-size: 10px;
 }
+.sizeTextP{
+    font-size: 20px;
+    font-family: "Poppins", serif;
+    font-weight: 500;
+    position: relative;
+    padding-bottom: 20px;
+}
+.sizeTextP::after{
+    position: absolute;
+    height: 1px;
+    width: 400px;
+    top: 100%;
+    left: 1%;
+    background: rgb(190, 186, 186);
+    content: "";
+}
+.sizeTextP::before{
+    position: absolute;
+    height: 8px;
+    width: 51px;
+    top: 100%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    border-radius: 10px;
+    z-index: 1;
+    background: #6A55EA;
+    content: "";
+}
+.traiH22{
+    padding-bottom: 20px;
+}
 /* Trail Part End */
+/* Social Part Start */
+.social{
+    padding: 40px;
+}
+.socialH2{
+    padding-bottom: 77px;
+    font-size: 48px;
+    font-family: "Poppins", serif;
+    font-weight: 600;
+}
+.imgSoci1{
+    padding-bottom: 30px;
+}
+.epl{
+    height: 64px;
+    width: 64px;
+    border-radius: 50%;
+    background: #C4C4C4;
+}
+.innerTextPost{
+    margin-top: 20px;
+}
+.newDiv{
+    padding-top: 100px;
+}
+.sociH1{
+    font-size: 28px;
+    font-family: "Poppins", serif;
+    font-weight: 600;
+    position: relative;
+}
+.sociH1::after{
+    width: 390px;
+    height: 2px;
+    background: #000000;
+    top: 170%;
+    left: 0;
+    content: "";
+    position: absolute;
+}
+/* Social Part End */
