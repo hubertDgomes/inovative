@@ -249,4 +249,67 @@ a{
     content: "";
     position: absolute;
 }
+.wholeDivMove{
+    padding-top: 30px;
+    padding-bottom: 30px;
+}
+.row1{
+    padding-bottom: 40px;
+}
+.changeSize{
+    font-size: 28px;
+    font-family: "Poppins", serif;
+    font-weight: 500;
+}
 /* Social Part End */
+/* Startup part Start */
+.startup{
+    padding: 40px;
+}
+.bgStart{
+    background: #6A55EA;
+    border-radius: 80px;
+}
+.overlayStart{
+    padding: 100px 0px;
+}
+.startH3{
+    font-size: 56px;
+    font-family: "Poppins", serif;
+    font-weight: 600;
+    color: #FDFDFD;
+}
+.btn3{
+    padding: 20px 40px;
+    background: white;
+    color: #6A55EA;
+    font-weight: 500;
+    font-size: 18px;
+    font-family: "Nunito", serif;
+    border-radius: 20px;
+}
+.btnMove{
+    margin-top: 80px;
+}
+/* Startup part End */
+/* Footer part Start */
+.footer{
+    padding: 50px 0;
+}
+.footInP{
+    padding-top: 51px;
+    font-size: 18px;
+    font-family: "Nunito", serif;
+}
+.footPad{
+    padding-top: 200px;
+    font-size: 18px;
+    font-family: "Nunito", serif;
+}
+.allH5{
+    padding-bottom:50px;
+}
+.forAlFS p{
+    font-family: "Nunito", serif;
+}
+/* Footer part End */
