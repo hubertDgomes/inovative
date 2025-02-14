@@ -1,0 +1,49 @@
+/* Extra small */
+@media (max-width: 575.98px) {
+
+    .navbar-toggler i{
+        font-size:32px;
+    }
+
+    .navbar-nav {
+        text-align: center;
+        background: rgb(128, 114, 114);
+        padding: 9px 0px;
+    }
+
+    .banner-part {  
+        margin-left: 151px;
+        text-align: center;
+        padding-top: 136px;
+    }
+
+    .rowH2 {
+        text-align: center;
+        font-size: 30px;
+        margin-left: 33px;
+    }
+
+    .rowP { 
+        font-weight: 600;
+        margin-left: 32px;
+        font-size: 18px;
+        padding-bottom: 6px;
+    }
+
+    .btn {
+        padding: 10px 40px;
+        margin-left: 31px;
+    }
+}
+
+/* Medium devices */
+@media (min-width: 768px) and (max-width: 991.98px) {}
+
+/* Large devices */
+@media (min-width: 992px) and (max-width: 1199.98px) {}
+
+/* Extra large devices */
+@media (min-width: 1200px) {}
+
+/* Small devices */
+@media (min-width: 320px) and (max-width: 767.98px) {}
