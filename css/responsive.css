@@ -1,42 +1,39 @@
 /* Extra small */
 @media (max-width: 575.98px) {
 
-    .navbar-toggler i{
+     .navbar-toggler i{
         font-size:32px;
     }
 
     .navbar-nav {
         text-align: center;
-        background: rgb(128, 114, 114);
+        background: rgba(198, 19, 52, 0.87);
         padding: 9px 0px;
+        border-radius: 10px;
     }
 
-    .banner-part {  
-        margin-left: 151px;
-        text-align: center;
-        padding-top: 136px;
+    .nav-link{
+        color: #fff !important;
+        font-family: "Nunito", serif;
     }
 
     .rowH2 {
-        text-align: center;
-        font-size: 30px;
-        margin-left: 33px;
+        margin-left: 101px;
+        font-size: 83px;
     }
 
-    .rowP { 
-        font-weight: 600;
-        margin-left: 32px;
-        font-size: 18px;
-        padding-bottom: 6px;
+    .rowP {
+        font-size: 23px;
+        margin-left: 96px;
+        padding-bottom: 12px;
     }
 
     .btn {
-        padding: 10px 40px;
-        margin-left: 31px;
+        margin-left: 105px;
     }
-
-    .newRow{
-        text-align: center;
+    
+    .banner-part {
+        padding-bottom: 30px;
     }
 }
 
