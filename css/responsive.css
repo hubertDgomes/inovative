@@ -35,6 +35,20 @@
     .banner-part {
         padding-bottom: 30px;
     }
+
+    .servicePart {
+        text-align: center;
+        margin-left: 77px;
+    }
+
+
+    .newRow{
+        margin-left: 77px;
+    }
+
+    .serText{
+        margin-left: 77px;
+    }
 }
 
 /* Medium devices */
