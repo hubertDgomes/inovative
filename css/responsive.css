@@ -1,8 +1,8 @@
 /* Extra small */
 @media (max-width: 575.98px) {
 
-     .navbar-toggler i{
-        font-size:32px;
+    .navbar-toggler i {
+        font-size: 32px;
     }
 
     .navbar-nav {
@@ -12,7 +12,7 @@
         border-radius: 10px;
     }
 
-    .nav-link{
+    .nav-link {
         color: #fff !important;
         font-family: "Nunito", serif;
     }
@@ -31,7 +31,7 @@
     .btn {
         margin-left: 105px;
     }
-    
+
     .banner-part {
         padding-bottom: 30px;
     }
@@ -42,12 +42,114 @@
     }
 
 
-    .newRow{
+    .newRow {
         margin-left: 77px;
     }
 
-    .serText{
+    .serText {
         margin-left: 77px;
+    }
+
+    .lauH3 {
+        text-align: center;
+        margin-left: 99px;
+    }
+
+    .lauP {
+        text-align: center;
+        margin-left: 99px;
+    }
+
+    .newMove {
+        text-align: center;
+        margin-left: 40px;
+    }
+
+    .launch {
+        padding-bottom: 7px;
+        padding-top: 20px;
+    }
+
+    .moveImg1{
+        padding-bottom: 30px;
+    }
+
+    .showH1 {
+        text-align: center;
+        margin-left: 101px;
+    }
+
+    .showP {
+        text-align: center;
+        margin-left: 93px;
+    }
+
+    .rowPad {
+        text-align: center;
+        margin-left: 50px;
+    }
+
+    .trustH3 {
+        text-align: center;
+        margin-left: 64px;
+    }
+
+    .forTop{
+        margin-left: 50px;
+    }
+
+    .rowPT {
+        text-align: center;
+        margin-left: 30px;
+    }
+
+    .triH2 {
+        text-align: center;
+        margin-left: 67px;
+    }
+
+    .triP {
+        text-align: center;
+        margin-left: 67px;
+    }
+
+    .triImg {
+        margin-left: 36px;
+    }
+
+    .respsTrial{
+        text-align: center;
+        margin-left: 30px;
+        font-size: 20px;
+    }
+
+    .btn4{
+        padding: 10px 20px;
+        color: #ffffff;
+        background: #8454F5;
+        border-radius: 10px;
+    }
+
+    .traih2{
+        padding-bottom: 20px;
+    }
+
+    .resTrialI{
+        padding-top: 20px;
+    }
+
+    .socialH2 {
+        text-align: center;
+        margin-left: 54px;
+    }
+
+    .overlayStart {
+        padding: 45px 15px;
+        text-align: center;
+    }
+
+    .forAlFS{
+        text-align: center;
     }
 }
 
